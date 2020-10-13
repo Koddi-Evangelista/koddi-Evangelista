@@ -1,6 +1,6 @@
 # Hi, I'm Koddi Evangelista🤵🏽🤟🏽
 
-Junior Web Developer
+Aspiring Web Developer
 
 - 👨🏽‍🎓 Currently Studying Computer Engineering
 - ❤ I Love Web Development
