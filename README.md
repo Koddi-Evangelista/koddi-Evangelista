@@ -21,6 +21,7 @@ I'm a **Fullstack Web Developer** living in **Meycauayan City, Philippines**.
 * ⚡ Fun Fact: loves to listen in old musics!🤘
 
 <br/>
+
 ## Some technologies I enjoy working with:
 
 ![HTML5](https://img.icons8.com/color/50/html-5.png 'HTML5')![CSS3](https://img.icons8.com/color/50/css3.png 'CSS3')![Sass](https://img.icons8.com/color/50/sass.png '  Sass')![Javascript](https://img.icons8.com/color/50/javascript.png 'Javascript')![VUE](https://img.icons8.com/color/50/vue-js.png 'Vue.js')![Node.js](https://img.icons8.com/color/50/nodejs.png 'Node.js')![MongoDB](https://img.icons8.com/color/50/mongodb.png 'MongoDB')![MySQL](https://img.icons8.com/color/50/mysql-logo.png 'MySQL')![Python](https://img.icons8.com/color/50/python.png 'Python')![Django](https://img.icons8.com/color/50/django.png 'Django')![Git](https://img.icons8.com/color/50/git.png 'Git')![Linux](https://img.icons8.com/color/50/linux.png 'Linux')
