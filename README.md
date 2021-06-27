@@ -34,7 +34,7 @@ I'm a **Fullstack Web Developer** living in **Meycauayan City, Philippines**.
 
 <div align="center">
 
-[![Facebook](https://img.icons8.com/color/50/facebook.png 'Facebook')](https://www.facebook.com/koddi.angelo/) [![CodePen](https://img.icons8.com/color/50/codepen.png 'CodePen')](https://codepen.io/koddi-evangelista)[![Gmail](https://img.icons8.com/color/50/gmail.png 'angelo.koddi@gmail.com')](mailto:angelo.koddi@gmail.com)
+[![Facebook](https://img.icons8.com/color/50/facebook.png 'Facebook')](https://www.facebook.com/koddi.angelo/) [![Gmail](https://img.icons8.com/color/50/gmail.png 'angelo.koddi@gmail.com')](mailto:angelo.koddi@gmail.com)
 
 </div>
 
